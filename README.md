@@ -1,6 +1,6 @@
 <div id="header" align="Center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/><br> <br> 
-<center><font size="20px">Programando jogos 😈</font></center>
+<center><font size="10px">Programando jogos 😈</font></center>
 </div><br> <br> <br> 
 <div align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
