@@ -12,4 +12,4 @@ Programas: Visual Studio, Visual Code, Unity, Unreal💻 <br>
 Focada na arte digital usando Blender e Photoshop!🎨
 <br>
 Meus status:<br>
-https://github-readme-streak-stats.herokuapp.com/?user=V3ktra
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V3ktra&theme=blood-dark&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
