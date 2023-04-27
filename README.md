@@ -5,7 +5,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
 </div>
+<br> 
 :technologist: Informações:
 HTML, Css, Javascript e C# 🤓 <br> 
 Programas: Visual Studio, Visual Code, Unity, Unreal💻 <br> 
 Focada na arte digital usando Blender e Photoshop!🎨
+<br>
+Meus status:<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-V3ktra&theme=dark&background=000000)](https://git.io/streak-stats)
