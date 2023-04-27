@@ -3,7 +3,7 @@
 <center><font size="10px">Programando jogos 😈</font></center>
 </div><br> <br> <br> 
 <div align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="400" height=200"/>
 </div>
 <br> 
 :technologist: Informações:
